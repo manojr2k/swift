@@ -4,7 +4,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <html lang="en">
 <head>
 	<meta charset="utf-8">
-	<title>Hello Swift CD second Int change</title>
+	<title>Hello Swift only/title>
 	<link rel="stylesheet" type="text/css" href="<?php echo base_url(); ?>css/bootstrap.min.css">
 	<link rel="stylesheet" type="text/css" href="<?php echo base_url(); ?>css/jquery-ui.min.css">
 	<link rel="stylesheet" type="text/css" href="<?php echo base_url(); ?>css/styles.css">
